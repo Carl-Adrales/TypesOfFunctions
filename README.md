@@ -1,4 +1,4 @@
-# TypesOfFunctions
+# Types Of Functions
   Types of Functions - Minting, Burning and Transferring Tokens
 
 ## Description
